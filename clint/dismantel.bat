@@ -1,3 +1,3 @@
 cd ..
-cd .\cpp_basics
-del .\clint
+cd cpp_basics
+del clint
