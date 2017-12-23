@@ -1,4 +1,7 @@
 cd ..
+cd .\cpp_basics
+del .\clint
+cd ..
 xcopy .\clint .\cpp_basics\clint
 cd cpp_basics
 git add --all
