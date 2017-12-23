@@ -3,4 +3,4 @@ xcopy .\clint .\cpp_basics\clint
 cd cpp_basics
 git add --all
 git commit -m"Update"
-git lfs push --all
+git push --all
